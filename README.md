@@ -6,8 +6,8 @@
 ## URL's
 ::: tip Direcciones web
 + [Curso "Automatiza tu negocio con Zapier - De 0 a 100"](https://www.udemy.com/course/automatiza-tu-negocio-con-zapier-de-0-a-100)
-+ [Repositorio del curso]()
-+ [Documentación]()
++ [Repositorio del curso](https://github.com/petrix12/zapier2022.git)
++ [Documentación](https://docspp.netlify.app/guide/herramientas/zapier2022/zapier2022.html)
 :::
 
 
